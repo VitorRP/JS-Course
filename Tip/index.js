@@ -24,4 +24,5 @@ function update() {
     document.getElementById('splitValue').innerHTML = formatSplit(split)
     document.getElementById('billEach').innerHTML = formatMoney(billEach)
     
+    
 }
